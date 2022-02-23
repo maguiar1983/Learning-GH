@@ -8,7 +8,7 @@
 import Foundation
 
 struct MyModel {
-    var Name:String?
+    var Name:String = "Marcelo"
     
 }
 
